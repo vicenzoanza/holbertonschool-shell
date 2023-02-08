@@ -1,2 +1,2 @@
 #!/bin/bash
-touch welcome/to/school
+cd welcome/to/school
